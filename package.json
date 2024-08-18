@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@mercuryhealthcare/dx-engine-trinity": "^1.0.5"
+  }
+}
